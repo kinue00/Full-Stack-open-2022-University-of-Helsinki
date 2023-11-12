@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title": "Test event",
+    "author": "Alan mulakain",
+    "url": "insta.com/usr404",
+    "likes": 1,
+    "userId": "654db90d6c957c63dc9dbaef"
+}
